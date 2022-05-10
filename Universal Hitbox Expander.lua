@@ -1,3 +1,7 @@
+-- // Showcase this without puqvs#0001's permission ima beat yo ass hard ong \\ --
+-- // love yourself <3 \\ -- 
+-- // puqvs#0001 made this! \\ --
+
 local Config = {
     WindowName = "NecoWare.kys",
 	Color = Color3.fromRGB(222,22,66),
